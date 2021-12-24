@@ -1,0 +1,8 @@
+application:  series of first 10 even numbers in reverse
+version:  1
+runtime:  python
+api_version:  1
+
+handlers:
+ -  url:  /.*
+    script:  index06.py
